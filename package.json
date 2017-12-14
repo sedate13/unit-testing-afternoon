@@ -1,0 +1,32 @@
+{
+  "name": "unit-testing-afternoon",
+  "version": "1.0.0",
+  "description": "<img src=\"https://devmounta.in/img/logowhiteblue.png\" width=\"250\" align=\"right\">",
+  "main": "cart.js",
+  "dependencies": {
+    "g": "^2.0.1",
+    "jest": "^21.2.1"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedate13/unit-testing-afternoon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sedate13/unit-testing-afternoon/issues"
+  },
+  "homepage": "https://github.com/sedate13/unit-testing-afternoon#readme"
+}
